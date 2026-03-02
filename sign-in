@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>The Daily Sprout</title>
+    </head>
+    <body>
+        <header>
+            <ul style="flex: justify-content space-between;">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="page2.html">Page 2</a></li>
+                <li><a href="page3.html">Page 3</a></li>
+            </ul>
+        </header>
+        <main>
+           <h1>Sign-In</h1>
+           <input type="text"placeholder="Email..."/>
+           <input type="text"placeholder="Password..."/>
+           <button>Sign-In</button>
+        </main>
+        <footer>
+          <ul>
+             <li><a href="index.html">Home</a></li>
+             <li><a href="page2.html">Page 2</a></li>
+             <li><a href="page3.html">Page 3</a></li>
+          </ul>
+        </footer>
+    </body>
+</html>
