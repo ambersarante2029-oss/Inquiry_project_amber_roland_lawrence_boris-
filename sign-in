@@ -15,6 +15,7 @@
            <input type="text"placeholder="Email..."/>
            <input type="text"placeholder="Password..."/>
            <button>Sign-In</button>
+           <img src="img-folder/linh-le-giP0e750Dr8-unsplash.jpg" alt="Plant image by Linh Le"/>
         </main>
         <footer>
           <ul>
@@ -22,6 +23,7 @@
              <li><a href="page2.html">Page 2</a></li>
              <li><a href="page3.html">Page 3</a></li>
           </ul>
+          <p>Green plant on brown wooden pot by Linh Le</p>
         </footer>
     </body>
 </html>
